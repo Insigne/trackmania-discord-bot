@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "quick.db": "^7.1.3",
+    "trackmania.io": "^2.4.0"
+  }
+}
